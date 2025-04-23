@@ -1,0 +1,17 @@
+
+@media only screen and (min-width: 991px) and (max-width: 1080px) {
+   .header-layout-4 .main-menu ul li {
+        margin-inline-end: 9px;
+    }
+}
+@media(max-width:992px){
+    .top-bar-nav{
+        display: none;
+    }
+    .header-logo-two{
+        display: none;
+    }
+    .header-layout-4 .header-action .btn{
+        font-size: 11px;
+     }
+}
